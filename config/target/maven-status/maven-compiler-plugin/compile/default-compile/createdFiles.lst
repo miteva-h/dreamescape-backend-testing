@@ -1,0 +1,6 @@
+com\project\config\CustomUsernamePasswordAuthenticationProvider.class
+com\project\config\SecurityConfig.class
+com\project\config\filters\JWTAuthenticationFilter.class
+com\project\config\filters\JWTAuthorizationFilter.class
+com\project\config\JWTSecurityConfig.class
+com\project\config\JwtAuthConstants.class

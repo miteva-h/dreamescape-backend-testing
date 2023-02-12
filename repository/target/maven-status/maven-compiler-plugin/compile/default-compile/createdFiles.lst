@@ -1,0 +1,10 @@
+com\project\repository\PhotoForPlaceRepository.class
+com\project\repository\UserRepository.class
+com\project\repository\AccommodationRepository.class
+com\project\repository\ArrangementInShoppingCartRepository.class
+com\project\repository\PlaceRepository.class
+com\project\repository\ArrangementRepository.class
+com\project\repository\RoleRepository.class
+com\project\repository\OrderRepository.class
+com\project\repository\ShoppingCartRepository.class
+com\project\repository\ReviewRepository.class
